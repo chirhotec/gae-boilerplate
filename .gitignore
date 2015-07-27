@@ -35,6 +35,7 @@ Vagrantfile
 .pydevproject
 .project
 .settings*
+*.sublime-*
 
 # node stuff
 node_modules
